@@ -74,7 +74,7 @@
       "titulo": "Corrupted - Os Quatro Cavaleiros",
       "descricao": "2 mil visualizações • há 8 dias",
       "quantidadeViews": 2000,
-      "image": "/images/thumbs/brenda-verbena.jpg",
+      "image": "/images/brenda-verbena.jpg",
       "canalID": 1
     },
     {
@@ -82,7 +82,7 @@
       "titulo": "Caos da Existência - A humanização do inexistente",
       "descricao": "3 mil visualizações • há 12 dias",
       "quantidadeViews": 3000,
-      "image": "/images/thumbs/caos-da-existencia.jpg",
+      "image": "/images/caos-da-existencia.jpg",
       "canalID": 2
     },
     {
@@ -90,7 +90,7 @@
       "titulo": "Uma Casa do Horror",
       "descricao": "1 mil visualizações • há 5 dias",
       "quantidadeViews": 1000,
-      "image": "/images/thumbs/casa-do-horro.jpg",
+      "image": "/images/casa-do-horro.jpg",
       "canalID": 3
     },
     {
@@ -98,7 +98,7 @@
       "titulo": "Coisas Estranhas",
       "descricao": "10 mil visualizações • há 14 dias",
       "quantidadeViews": 10000,
-      "image": "/images/thumbs/coisas-estranhas.jpg",
+      "image": "/images/coisas-estranhas.jpg",
       "canalID": 4
     },
     {
@@ -106,7 +106,7 @@
       "titulo": "Em Busca do Amor",
       "descricao": "7 mil visualizações • há 11 dias",
       "quantidadeViews": 7000,
-      "image": "/images/thumbs/lara-cristina.jpg",
+      "image": "/images/lara-cristina.jpg",
       "canalID": 5
     },
     {
@@ -114,7 +114,7 @@
       "titulo": "Provas - Um crime em paris",
       "descricao": "14 mil visualizações • há 11 dias",
       "quantidadeViews": 14000,
-      "image": "/images/thumbs/provas-um-crime-em-paris.jpg",
+      "image": "/images/provas-um-crime-em-paris.jpg",
       "canalID": 4
     }
   ]
