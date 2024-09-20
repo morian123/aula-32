@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dev" : "nodemon --exec src/server.js",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
